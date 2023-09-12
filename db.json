@@ -1,13 +1,15 @@
 {
-    "resCode": 0,
-    "resDesc": null,
-    "jsString": null,
-    "resId": null,
-    "reqUniqueId": null,
-    "clientReqId": "flippty-floppity",
-    "otp": null,
-    "cgURL": "https://github.com/Advaith-K/MPLP-APL-response",
-    "iErrCode": 0,
-    "iErrDesc": null,
-    "iTimeTaken": null
+    "JSON": [{
+        "resCode": 0,
+        "resDesc": null,
+        "jsString": null,
+        "resId": null,
+        "reqUniqueId": null,
+        "clientReqId": "flippty-floppity",
+        "otp": null,
+        "cgURL": "https://github.com/Advaith-K/MPLP-APL-response",
+        "iErrCode": 0,
+        "iErrDesc": null,
+        "iTimeTaken": null
+    }]
 }
