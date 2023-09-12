@@ -1,5 +1,5 @@
 {
-    "JSON": [{
+    "JSON": {
         "resCode": 0,
         "resDesc": null,
         "jsString": null,
@@ -11,5 +11,5 @@
         "iErrCode": 0,
         "iErrDesc": null,
         "iTimeTaken": null
-    }]
+    }
 }
